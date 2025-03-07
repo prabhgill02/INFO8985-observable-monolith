@@ -1,4 +1,5 @@
 {
+    "homepage": "https://prabhgill02.github.io/INFO8985-observable-monolith",
     "devDependencies": {
         "wp-pwa": "^0.1.24"
     },
