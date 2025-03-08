@@ -1,0 +1,12 @@
+columns format version: 1
+10 columns:
+`env` LowCardinality(String)
+`temporality` LowCardinality(String)
+`metric_name` LowCardinality(String)
+`description` LowCardinality(String)
+`unit` LowCardinality(String)
+`type` LowCardinality(String)
+`is_monotonic` Bool
+`fingerprint` UInt64
+`unix_milli` Int64
+`labels` String

@@ -1,0 +1,1 @@
+{"columns":[{"kind":"Default","name":"fingerprint","num_defaults":0,"num_rows":105},{"kind":"Sparse","name":"is_monotonic","num_defaults":100,"num_rows":105},{"kind":"Default","name":"labels","num_defaults":0,"num_rows":105},{"kind":"Default","name":"timestamp_ms","num_defaults":0,"num_rows":105}],"version":0}
